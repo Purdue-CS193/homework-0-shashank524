@@ -4,3 +4,5 @@
 - No exams or midterms.
 - Cool Instructors and TAs.
 - I get to learn to use tools that are widely used in Industry.
+
+theme:cayman
